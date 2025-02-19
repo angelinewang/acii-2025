@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SemEval Task 11 Track A English 2025 
 
 ### Task Description
@@ -134,3 +135,7 @@ Recall: 0.6258
 
 Best Predictions so far: 
 /Users/angwang/semeval-task-11-track-a/results/test_predictions_dynamic_thresholds_2025-02-14_11_43_31.csv
+=======
+# acii-2025
+Builds upon SemEval 2025 Task 11 Track A
+>>>>>>> 47386418 (Initial commit)
